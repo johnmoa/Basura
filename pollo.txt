@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 las chicas de verdad les gusta el pollo frito
 A Tania si le gusta demasiado el pollo pollo polla!
+=======
+A las chicas de verdad les gusta el pollo frito
+A Tania le gusta el pollo frito
+>>>>>>> bcaebd2bf28e9e89dd692a7431a0f25f5bf212ad
